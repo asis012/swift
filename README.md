@@ -1,2 +1,2 @@
 # swift
-these are the practice tutorials for udemy ios 11  &amp; swift 4
+these are the practice tutorials from udemy ios 11  &amp; swift 4
